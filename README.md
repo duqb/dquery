@@ -1,1 +1,1 @@
-Use dquery to commemorate jQuery. 
+Commemorate jQuery. 
